@@ -12,6 +12,18 @@ form{
     text-align: center;
     padding: 20px;
 }
+.container .carte{
+    display: flex;
+}
 .container .carte .gauche{
     background-color: red;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+}
+.container .carte .droite{
+    background-color: red;
+    width: 300px;
+    height: 400px;
+    text-align: center;
 }
