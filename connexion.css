@@ -6,7 +6,9 @@
     height: 100vh;
 }
 form{
+    background-color: rgba(214, 214, 214, 0.656);
     display: flex;
     flex-direction: column;
     text-align: center;
+    padding: 20px;
 }
