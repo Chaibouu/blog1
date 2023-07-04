@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    background-color: green;
+    height: 100vh;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
