@@ -12,3 +12,6 @@ form{
     text-align: center;
     padding: 20px;
 }
+.container .carte .gauche{
+    background-color: red;
+}
