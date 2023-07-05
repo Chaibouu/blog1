@@ -10,20 +10,26 @@ form{
     display: flex;
     flex-direction: column;
     text-align: center;
-    padding: 20px;
 }
 .container .carte{
     display: flex;
 }
-.container .carte .gauche{
+.container .sign-in{
     background-color: red;
     width: 300px;
     height: 400px;
     text-align: center;
 }
-.container .carte .droite{
+.container .carte .sign-up{
     background-color: red;
     width: 300px;
     height: 400px;
     text-align: center;
+}
+input{
+    padding:7px;
+    margin: 5px;
+    border-radius: 50px;
+    border: 1px solid rgb(4, 9, 115);
+
 }
