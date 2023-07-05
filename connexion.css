@@ -5,6 +5,13 @@
     background-color: green;
     height: 100vh;
 }
+.carte{
+    width: 80vw;
+    height: 70vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
 form{
     background-color: rgba(214, 214, 214, 0.656);
     display: flex;
