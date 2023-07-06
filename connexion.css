@@ -6,8 +6,8 @@
     height: 100vh;
 }
 .carte{
-    width: 80vw;
-    height: 70vh;
+    width: 70vw;
+    height: 60vh;
     display: flex;
     justify-content:center;
     align-items:center;
@@ -17,18 +17,21 @@ form{
     display: flex;
     flex-direction: column;
     text-align: center;
+    height: 100%;
 }
 .container .carte{
     display: flex;
 }
 .container .sign-in{
     background-color: red;
+    padding: 30px;
     width: 300px;
     height: 400px;
     text-align: center;
 }
 .container .carte .sign-up{
     background-color: red;
+    padding: 30px;
     width: 300px;
     height: 400px;
     text-align: center;
